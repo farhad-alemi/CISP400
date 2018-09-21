@@ -1,0 +1,43 @@
+Lab 3, Part 1 - Sample Output
+
+0 - Lakeside
+1 - Downtown
+2 - Suburb
+3 - Country
+4 - Parkside
+5 - Exit
+Make your choice:9
+Invalid selection.
+0 - Lakeside
+1 - Downtown
+2 - Suburb
+3 - Country
+4 - Parkside
+5 - Exit
+Make your choice:2
+Enter transaction number:98224
+Enter owner name:Jane
+Transaction #: 98224
+Owner: Jane
+Type: Suburb
+0 - Lakeside
+1 - Downtown
+2 - Suburb
+3 - Country
+4 - Parkside
+5 - Exit
+Make your choice:4
+Enter transaction number:0003
+Enter owner name:IHaveAReallyLongNameSoItsNoGood
+Invalid name, try again.
+Enter owner name:MuchSmallerName
+Transaction #: 3
+Owner: MuchSmallerName
+Type: Parkside
+0 - Lakeside
+1 - Downtown
+2 - Suburb
+3 - Country
+4 - Parkside
+5 - Exit
+Make your choice:5
