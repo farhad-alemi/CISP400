@@ -1,0 +1,31 @@
+Sample output is provided below.
+
+Enter item number for first inventory item: 13
+
+Enter quantity for first inventory item: 55
+
+Enter cost for first inventory item: 12.95
+Enter item number for second inventory item: 15
+
+Enter quantity for second inventory item: -5
+Invalid negative input.  Try again.
+
+Enter quantity for second inventory item: 5
+
+Enter cost for second inventory item: -129.50
+Invalid negative input.  Try again.
+
+Enter cost for second inventory item: 130
+Results for first inventory item:
+Item number: 13
+Quantity: 55
+Cost: 12.95
+Total cost: 712.25
+
+Results for second inventory item:
+Item number: 15
+Quantity: 5
+Cost: 130
+Total cost: 650
+Inventory item being destroyed.
+Inventory item being destroyed.
