@@ -1,0 +1,9 @@
+TEST DAYS WORKED : 2.08333
+TEST HOURS WORKED: 50
+Data: Jane, Hours worked: 30, Copy generation: 0
+Data: JaneCopy, Hours worked: 30, Copy generation: 1
+Data: Jim, Hours worked: 20, Copy generation: 0
+Data: Combined, Hours worked: 50, Copy generation: 0
+Data: Jane + JaneCopy, Hours worked: 60, Copy generation: 0
+Data: Testing int setter, Hours worked: 40, Copy generation: 0
+Data: Testing double setter, Hours worked: 72, Copy generation: 0
