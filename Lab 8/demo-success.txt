@@ -1,0 +1,144 @@
+Enter starting debt:
+800
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+3
+--- Current Account Status ---
+Current debt: 800
+------------------------------
+NO CREDIT CARD PAYMENT ENTERED.
+------------------------------
+NO CHECK PAYMENT ENTERED.
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+1
+Enter name of payer:
+Jane
+Enter amount of cash (NOTE - there will be a deduction!):
+400
+Enter credit card number:
+1122
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+3
+--- Current Account Status ---
+Current debt: 440
+------------------------------
+Name: Jane (on credit)
+Amount: 360
+Card number: 1122
+
+------------------------------
+NO CHECK PAYMENT ENTERED.
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+2
+Enter name of payer:
+Jim
+Enter amount of cash:
+300.50
+Enter name of cosigner:
+Jane
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+3
+--- Current Account Status ---
+Current debt: 139.5
+------------------------------
+Name: Jane (on credit)
+Amount: 360
+Card number: 1122
+
+------------------------------
+Name: Jim (by check)
+Amount: 300.5
+Cosigner: Jane
+
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+1
+Enter name of payer:
+Jill
+Enter amount of cash (NOTE - there will be a deduction!):
+100
+Enter credit card number:
+8888
+Removing credit card payment record...
+Payment deallocated.
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+3
+--- Current Account Status ---
+Current debt: 49.5
+------------------------------
+Name: Jill (on credit)
+Amount: 90
+Card number: 8888
+
+------------------------------
+Name: Jim (by check)
+Amount: 300.5
+Cosigner: Jane
+
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+1
+Enter name of payer:
+Joe
+Enter amount of cash (NOTE - there will be a deduction!):
+75
+Enter credit card number:
+5555
+Removing credit card payment record...
+Payment deallocated.
+
+
+FINAL REPORT:
+
+--- Current Account Status ---
+Current debt: -18
+------------------------------
+Name: Joe (on credit)
+Amount: 67.5
+Card number: 5555
+
+------------------------------
+Name: Jim (by check)
+Amount: 300.5
+Cosigner: Jane
+
+------------------------------
+
+Debt satisfied prior to deallocation.
+Removing checking payment record...
+Payment deallocated.
+Removing credit card payment record...
+Payment deallocated.

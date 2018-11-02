@@ -1,0 +1,66 @@
+Enter starting debt:
+800
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit ProgramEnter choice:
+3
+--- Current Account Status ---
+Current debt: 800
+------------------------------
+NO CREDIT CARD PAYMENT ENTERED.
+------------------------------
+NO CHECK PAYMENT ENTERED.
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+1
+Enter name of payer:
+Jane
+Enter amount of cash (NOTE - there will be a deduction!):
+749.95
+Enter credit card number:
+2222
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+3
+--- Current Account Status ---
+Current debt: 125.045
+------------------------------
+Name: Jane (on credit)
+Amount: 674.955
+Card number: 2222
+
+------------------------------
+NO CHECK PAYMENT ENTERED.
+------------------------------
+1...Enter card payment
+2...Enter check payment
+3...View Current Account Status
+4...Exit Program
+Enter choice:
+4
+
+
+FINAL REPORT:
+
+--- Current Account Status ---
+Current debt: 125.045
+------------------------------
+Name: Jane (on credit)
+Amount: 674.955
+Card number: 2222
+
+------------------------------
+NO CHECK PAYMENT ENTERED.
+------------------------------
+
+Debt still unsettled on deallocation.
+Removing credit card payment record...
+Payment deallocated.
