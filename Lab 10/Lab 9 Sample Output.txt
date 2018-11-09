@@ -1,0 +1,11 @@
+Type: Bigger
+Result: Dog
+Length: 3
+**********************
+Type: Smaller
+Result: House
+Length: 5
+**********************
+Type: Concatenate
+Result: LengthWidth
+Length: 11
