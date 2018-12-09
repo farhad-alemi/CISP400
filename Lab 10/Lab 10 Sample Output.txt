@@ -1,0 +1,13 @@
+Now attempting: integer exception
+Object created.
+Object destroyed.
+Exception caught: -1
+Now attempting: string exception
+Object created.
+Object destroyed.
+Exception caught: Error!
+Now attempting: custom exception
+Object created.
+Object destroyed.
+Exception number: Major error!, Message: -99
+Total exceptions caught:3
