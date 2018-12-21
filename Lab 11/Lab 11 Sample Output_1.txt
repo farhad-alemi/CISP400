@@ -1,0 +1,43 @@
+1... integers
+2... strings
+Enter type to use:2
+
+Enter next data element:apple
+
+Enter next data element:pear
+
+Enter next data element:orange
+
+Enter next data element:banana
+
+Enter next data element:grapes
+
+Enter next data element:lemon
+
+Enter next data element:END
+
+Entry order:
+apple
+pear
+orange
+banana
+grapes
+lemon
+
+Scrambled order:
+orange
+apple
+grapes
+banana
+lemon
+pear
+
+Sorted order:
+apple
+banana
+grapes
+lemon
+orange
+pear
+Requested item was found in the list.
+

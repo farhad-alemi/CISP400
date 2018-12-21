@@ -1,0 +1,53 @@
+1... integers
+2... strings
+Enter type to use:1
+
+Enter next data element:8
+
+Enter next data element:4
+
+Enter next data element:2
+
+Enter next data element:16
+
+Enter next data element:64
+
+Enter next data element:32
+
+Enter next data element:256
+
+Enter next data element:128
+
+Enter next data element:-999
+
+Entry order:
+8
+4
+2
+16
+64
+32
+256
+128
+
+Scrambled order:
+64
+8
+128
+4
+2
+16
+32
+256
+
+Sorted order:
+2
+4
+8
+16
+32
+64
+128
+256
+Requested item was NOT found in the list.
+
